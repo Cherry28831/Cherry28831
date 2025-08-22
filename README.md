@@ -5,7 +5,7 @@
 
 ## About Me
 - :envelope: Reach me at: cherry28831@gmail.com
-- :art: Fun fact: I blend tech and creativity as a Digital Artist!
+- :art: Fun fact: I am a Digital Artist!
 
 ## Connect with Me
 <p align="left">
