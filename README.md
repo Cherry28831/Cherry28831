@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%23FF6F61&size=32&center=true&vCenter=true&width=600&lines=Hi,+I'm+Chaitravi!;Software+Developer" alt="Typing SVG" /></h1>
+<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%23FF6F61&size=32&center=true&vCenter=true&width=600&lines=Hi,+I'm+Chaitravi!;Software+Developer;AI+Engineer" alt="Typing SVG" /></h1>
 <h3 align="center">Crafting efficient code and creative designs :star:</h3>
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=Cherry28831&label=Profile+Views&color=FF6F61&style=flat" alt="Cherry28831" /></p>
