@@ -11,7 +11,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/chaitravi-reddy-bba681311" target="_blank" style="margin: 0 10px;"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" height="40" width="auto" /></a>
 <a href="https://instagram.com/shabbybagel" target="_blank" style="margin: 0 10px;"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" height="40" width="auto" /></a>
-<a href="https://youtube.com/jemberryedits" target="_blank" style="margin: 0 10px;"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube" height="40" width="auto" /></a>
 <a href="https://discord.com/users/cherry_hehe" target="_blank" style="margin: 0 10px;"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord" height="40" width="auto" /></a>
 </p>
 
